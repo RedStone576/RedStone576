@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RedStone576</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm RedStone576</h1>
 <h3 align="center">and i have no idea why i'm here</h3>
 
 - Currently Still [Sleeping](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3)
